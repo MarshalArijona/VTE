@@ -5,9 +5,9 @@ The success of deep learning on computer vision tasks is due to the convolution 
 
 # Method
 ## Predictive Transformation
-
+![alt text](https://github.com/MarshalArijona/VTE/blob/master/fig/Transformation.png "Predictive Transformation")
 ## VTE Barber-Agakov
-
+![alt text](https://github.com/MarshalArijona/VTE/blob/master/fig/VTEBA.png "VTEBA")
 # Require
 1. Python == 3.7
 2. PyTorch == 1.9
