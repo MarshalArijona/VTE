@@ -9,10 +9,10 @@ The success of deep learning on computer vision tasks is due to the convolution 
 ## VTE Barber-Agakov
 
 # Require
-1. Python == 3.7 \\
-2. PyTorch == 1.9 \\
-3. PyTorch-Lightning == 1.5\\
-4. Torchvsion == 0.11.0 \\
+1. Python == 3.7
+2. PyTorch == 1.9
+3. PyTorch-Lightning == 1.5
+4. Torchvsion == 0.11.0
 
 # Disclaimer
-Some of our codes reuse the github project \href{AVT}{https://github.com/maple-research-lab/AVT-pytorch/blob/master/}.
+Some of our codes reuse the github project [AVT](https://github.com/maple-research-lab/AVT-pytorch/blob/master/)
